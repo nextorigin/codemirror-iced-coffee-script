@@ -1,0 +1,33 @@
+{
+  "name": "codemirror-iced-coffee-script",
+  "version": "1.0.0",
+  "description": "IcedCoffeeScript mode for CodeMirror",
+  "main": "codemirror-iced-coffee-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextorigin/codemirror-iced-coffee-script.git"
+  },
+  "keywords": [
+    "codemirror",
+    "mode",
+    "iced",
+    "coffeescript",
+    "coffee-script",
+    "icedcoffeescript",
+    "iced-coffee-script",
+    "syntax",
+    "highlight"
+  ],
+  "author": "doublerebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextorigin/codemirror-iced-coffee-script/issues"
+  },
+  "homepage": "https://github.com/nextorigin/codemirror-iced-coffee-script#readme",
+  "dependencies": {
+    "codemirror": "^5.14.2"
+  }
+}
