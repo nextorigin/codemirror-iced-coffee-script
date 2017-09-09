@@ -1,4 +1,6 @@
 # codemirror-iced-coffee-script
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nextorigin/codemirror-iced-coffee-script.svg)](https://greenkeeper.io/)
 IcedCoffeeScript mode for [CodeMirror](http://codemirror.net)
 
 ## Installation
